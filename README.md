@@ -32,3 +32,19 @@ Install the updated `loralib`:
 pip install -e ../loralib/
 ```
 
+### Citation
+```BibTeX
+@inproceedings{zhang-etal-2025-parameter,
+    title = "Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace",
+    author = "Zhang, Jia-Chen  and
+      Xiong, Yu-Jie  and
+      Xia, Chun-Ming  and
+      Zhu, Dong-Hai  and
+      Qiu, Xi-He",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    url = "https://aclanthology.org/2025.coling-main.265/",
+    pages = "3924--3935",
+}
+```
